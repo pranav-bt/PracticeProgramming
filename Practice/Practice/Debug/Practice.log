@@ -1,0 +1,3 @@
+﻿  Practice.cpp
+D:\Projects\C++\Personal\Practice\Practice\Practice.cpp(179,9): warning C4101: 'temp': unreferenced local variable
+  Practice.vcxproj -> D:\Projects\C++\Personal\Practice\Practice\Debug\Practice.exe
